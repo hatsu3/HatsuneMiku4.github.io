@@ -79,4 +79,5 @@ fancybox: true
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: git@github.com:HatsuneMiku4/HatsuneMiku4.github.io.git
